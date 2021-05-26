@@ -646,6 +646,7 @@ nav.top-nav-short-permanent ~ header > .intro-header.big-img {
 }
 .intro-header .page-heading {
   text-align: center;
+  padding-top: 32px;
 }
 .intro-header.big-img .page-heading,
 .intro-header.big-img .post-heading {
