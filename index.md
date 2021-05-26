@@ -4,6 +4,8 @@ title: Another Day Resource Center
 subtitle: We are a volunteer-manned, prayer-fueled, Holy Spirit-led ministry committed to spreading hope, truth, and love by being the hands and feet of Jesus.
 ---
 # Resource Center
+
+[View our photo gallery](gallery)
   
   
   
@@ -24,6 +26,7 @@ subtitle: We are a volunteer-manned, prayer-fueled, Holy Spirit-led ministry com
 Every dollar donated goes directly to further our mission of spreading the love of Jesus Christ through meeting the needs of those around us.
 
 ### Funding
+
 <div class="sqs-block code-block sqs-block-code center" style="margin: 0 auto; text-align: center;" data-block-type="23" id="block-yui_3_17_2_2_1458854771838_4914"><div class="sqs-block-content"><form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_s-xclick">
 <input type="hidden" name="hosted_button_id" value="7NY4ERMR2Y2SE">
@@ -52,7 +55,7 @@ To all who continue to donate their time, talents and resources to help us sprea
   
 
 # Events
-  
+
   
   
   
