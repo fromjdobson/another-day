@@ -23,9 +23,12 @@ Every dollar donated goes directly to further our mission of spreading the love 
 
 # Volunteer
 To all who continue to donate their time, talents and resources to help us spread Christ's love - your support is truly immeasurable!
-![Bus](https://images.squarespace-cdn.com/content/v1/569e8aecfd5d08bad0f9609a/1485998619213-FU974X5AIEQN556Q8TUV/ke17ZwdGBToddI8pDm48kFm57DUYouSqIxzWv4o1zCdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy7Up181k9wkv-ANxKi4CW8rcZcefHkX0sUmbfcBg5FwaJzn1GwXapvUAoLhiD54v4/bus+windows.jpg?format=300w){: .mx-auto.d-block :}
 
-![Booth](https://images.squarespace-cdn.com/content/v1/569e8aecfd5d08bad0f9609a/1485998621652-LBGJH7993JWF62NCDD6D/ke17ZwdGBToddI8pDm48kD_dpukGyt7jsa6LBkcftIRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHlVsMLol0qwNuf9_lbtMEZelAfG6E5n0sfiwe9dckhmyUH-UZxYuttpJc2_CVcUJE/veterans.jpg?format=300w){: .mx-auto.d-block :}
+<div style="display: flex">
+![Bus](https://images.squarespace-cdn.com/content/v1/569e8aecfd5d08bad0f9609a/1485998619213-FU974X5AIEQN556Q8TUV/ke17ZwdGBToddI8pDm48kFm57DUYouSqIxzWv4o1zCdZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpy7Up181k9wkv-ANxKi4CW8rcZcefHkX0sUmbfcBg5FwaJzn1GwXapvUAoLhiD54v4/bus+windows.jpg?format=300w)
+
+![Veterans](https://images.squarespace-cdn.com/content/v1/569e8aecfd5d08bad0f9609a/1485998621652-LBGJH7993JWF62NCDD6D/ke17ZwdGBToddI8pDm48kD_dpukGyt7jsa6LBkcftIRZw-zPPgdn4jUwVcJE1ZvWEtT5uBSRWt4vQZAgTJucoTqqXjS3CfNDSuuf31e0tVHlVsMLol0qwNuf9_lbtMEZelAfG6E5n0sfiwe9dckhmyUH-UZxYuttpJc2_CVcUJE/veterans.jpg?format=300w)
+</div>
 
 # Events
 
