@@ -9,16 +9,16 @@
 title: Another Day Resource Center
 
 # Your name to show in the footer
-author: Jonathan Dobson
+author: Another Day
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   Resource Center: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Outreach: "aboutme"
+  Calendar: "aboutme"
+  Donate: "aboutme"
+  Volunteer: "aboutme"
 
 # --- Logo --- #
 
