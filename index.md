@@ -68,10 +68,21 @@ To all who continue to donate their time, talents and resources to help us sprea
 
 # Events  
 
+  No events planned yet. Check again in a few days.
   
-  
+  (Subscribe to get notified of new events)[subscribe]
   
   
   
 
 # Contact Us  
+
+* Looking for resources?
+* Need someone to talk to?
+* Want to volunteer or donate?
+* Have a fundraising idea?
+* Just want to say "hi!"?
+
+Fill out the form to get in touch!  
+
+Or, call us: (248) 469-6607  
