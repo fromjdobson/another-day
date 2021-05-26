@@ -5,7 +5,6 @@ subtitle: We are a volunteer-manned, prayer-fueled, Holy Spirit-led ministry com
 section1: Outreach
 ---
 
-<h1>Outreach</h1>
 # Donate
 # Volunteer
 # Events
