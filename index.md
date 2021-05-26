@@ -70,7 +70,7 @@ To all who continue to donate their time, talents and resources to help us sprea
 
   No events planned yet. Check again in a few days.
   
-  (Subscribe to get notified of new events)[subscribe]
+  [Subscribe to get notified of new events](subscribe)
   
   
   
