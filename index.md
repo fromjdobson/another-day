@@ -14,12 +14,12 @@ subtitle: We are a volunteer-manned, prayer-fueled, Holy Spirit-led ministry com
   
 
 # Outreach
-We 
-[R.E.N.E.W. Post-Abortion Conseling](http://anotherdayresource.org/renew)  
-[Packing Hope! Supplies for Michigan’s foster care children](http://anotherdayresource.org/packing-hope)  
-[]()  
-[]()  
-[]()  
+
+[R.E.N.E.W.](http://anotherdayresource.org/renew) Post-Abortion Conseling  
+[Packing Hope](http://anotherdayresource.org/packing-hope) Supplies for Michigan’s foster care children  
+[Born to Bless](http://anotherdayresource.org/borntobeablessing) Delivering prayer and supplies to homeless  
+[Girls with Purpose](http://anotherdayresource.org/girls-with-purpose) Montorship for Girls
+[Prom Dress with Purpose](http://anotherdayresource.org/clothed-in-beauty) Lending Free Prom Dress and Accessories
   
   
   
