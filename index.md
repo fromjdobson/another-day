@@ -14,7 +14,12 @@ subtitle: We are a volunteer-manned, prayer-fueled, Holy Spirit-led ministry com
   
 
 # Outreach
-  
+We 
+[R.E.N.E.W. Post-Abortion Conseling](http://anotherdayresource.org/renew)  
+[Packing Hope! Supplies for Michigan’s foster care children](http://anotherdayresource.org/packing-hope)  
+[]()  
+[]()  
+[]()  
   
   
   
@@ -36,6 +41,8 @@ Every dollar donated goes directly to further our mission of spreading the love 
 </div></div>
 
 ### Supplies
+
+
 ## [Donate Supplies](donate)
   
   
