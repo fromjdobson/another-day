@@ -18,9 +18,9 @@ subtitle: We are a volunteer-manned, prayer-fueled, Holy Spirit-led ministry com
 [R.E.N.E.W.](http://anotherdayresource.org/renew) Post-Abortion Conseling  
 [Packing Hope](http://anotherdayresource.org/packing-hope) Supplies for Michigan’s foster care children  
 [Born to Bless](http://anotherdayresource.org/borntobeablessing) Delivering prayer and supplies to homeless  
-[Girls with Purpose](http://anotherdayresource.org/girls-with-purpose) Montorship for Girls
-[Prom Dress with Purpose](http://anotherdayresource.org/clothed-in-beauty) Lending Free Prom Dress and Accessories
-  
+[Girls with Purpose](http://anotherdayresource.org/girls-with-purpose) Montorship for girls  
+[Prom Dress with Purpose](http://anotherdayresource.org/clothed-in-beauty) Lending free drom dresses and accessories  
+[Inspiration Station](http://anotherdayresource.org/inspiration-station) Arts and Crafts workshops
   
   
   
