@@ -15,13 +15,13 @@ subtitle: We are a volunteer-manned, prayer-fueled, Holy Spirit-led ministry com
 
 # Outreach
 ### R.E.N.E.W.
-[Post-Abortion Conseling](http://anotherdayresource.org/renew)  
+[Post-Abortion Counseling](http://anotherdayresource.org/renew)  
 ### Packing Hope
 [Supplies for Michigan’s foster care children](http://anotherdayresource.org/packing-hope)  
 ### Born to be a blessing
-[ Delivering prayer and supplies to homeless](http://anotherdayresource.org/borntobeablessing)  
+[Delivering prayer and supplies to homeless](http://anotherdayresource.org/borntobeablessing)  
 ### Girls with a purpose
-[Montorship for girls](http://anotherdayresource.org/girls-with-purpose)  
+[Mentorship for girls](http://anotherdayresource.org/girls-with-purpose)  
 ### Prom Dress with Purpose
 [Lending free prom dresses and accessories](http://anotherdayresource.org/clothed-in-beauty)  
 ### Inspiration Station
